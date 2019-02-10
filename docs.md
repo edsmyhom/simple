@@ -7,4 +7,4 @@ What's new in Version 4.8:
 * Improved battery life by 25%.
 * Added language support for Polish and Portuguese.
 
-The bicycle bell can speak 11 different languages.
+The bicycle bell can speak 10 different languages.
